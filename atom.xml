@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qulei55667.github.io</id>
     <title>qulei55667</title>
-    <updated>2021-11-25T12:24:57.125Z</updated>
+    <updated>2021-12-01T14:41:58.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qulei55667.github.io"/>
     <link rel="self" href="https://qulei55667.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://qulei55667.github.io/images/avatar.png</logo>
     <icon>https://qulei55667.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, qulei55667</rights>
+    <entry>
+        <title type="html"><![CDATA[2D Pixel Room Bedroom]]></title>
+        <id>https://qulei55667.github.io/post/2d-pixel-room-bedroom/</id>
+        <link href="https://qulei55667.github.io/post/2d-pixel-room-bedroom/">
+        </link>
+        <updated>2021-12-01T14:38:09.000Z</updated>
+        <content type="html"><![CDATA[<p>A pixelated 2d room scene Cabinet doors and drawers with animation<br>
+Technical details<br>
+56 layers in total<br>
+1 PSB with adjustment layers<br>
+50 separate png images<br>
+includes：<br>
+-eiling<br>
+-Bed<br>
+-slipper<br>
+-football<br>
+-carpet<br>
+-Chair<br>
+-Cup<br>
+-keyboard<br>
+-mouse<br>
+-cabinet<br>
+-Book<br>
+-computer<br>
+-curtain<br>
+-window<br>
+-Skirting<br>
+-floor<br>
+-wall<br>
+-drawer<br>
+-Cabinet door<br>
+Asset Store : https://assetstore.unity.com/packages/2d/environments/2d-pixel-room-bedroom-207779#description</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groundhog Match Kit For Playmaker 1.0]]></title>
         <id>https://qulei55667.github.io/post/groundhog-match-kit-for-playmaker/</id>
