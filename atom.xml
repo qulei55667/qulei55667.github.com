@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qulei55667.github.io</id>
     <title>qulei55667</title>
-    <updated>2021-12-01T14:46:44.609Z</updated>
+    <updated>2021-12-14T10:48:48.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qulei55667.github.io"/>
     <link rel="self" href="https://qulei55667.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://qulei55667.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, qulei55667</rights>
     <entry>
-        <title type="html"><![CDATA[2D Pixel Room Bedroom 1.0]]></title>
+        <title type="html"><![CDATA[2D Pixel Room Bedroom v1.0]]></title>
         <id>https://qulei55667.github.io/post/2d-pixel-room-bedroom/</id>
         <link href="https://qulei55667.github.io/post/2d-pixel-room-bedroom/">
         </link>
@@ -45,7 +45,7 @@ Asset Store : https://assetstore.unity.com/packages/2d/environments/2d-pixel-roo
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Groundhog Match Kit For Playmaker 1.0]]></title>
+        <title type="html"><![CDATA[Groundhog Match Kit For Playmaker v1.0 ]]></title>
         <id>https://qulei55667.github.io/post/groundhog-match-kit-for-playmaker/</id>
         <link href="https://qulei55667.github.io/post/groundhog-match-kit-for-playmaker/">
         </link>
@@ -54,7 +54,7 @@ Asset Store : https://assetstore.unity.com/packages/2d/environments/2d-pixel-roo
 <p>Level parameters can be customized and detailed parameters can be used to make changes within the inspector<br>
 Easily create maps of different shapes in just a few steps<br>
 All fsm's are fully annotated</p>
-<p>Asset Store : https://assetstore.unity.com/</p>
+<p>Asset Store : https://assetstore.unity.com/packages/slug/207214</p>
 ]]></content>
     </entry>
     <entry>
